@@ -1,2 +1,4 @@
 # my-task-from-college
-this file to fulfill the task from my college
+I'm Muhammad Alfitrotillah, I'm student of Telkom University, I'm learned in informatics.
+i learned basic skill of programming in c++ language, go language in my college
+
